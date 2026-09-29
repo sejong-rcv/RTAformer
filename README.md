@@ -8,12 +8,12 @@ Code and pretrained models are currently being organized and will be released in
 
 ## News
 
-- 🎉 **Sep. 2026 — Our paper was accepted to ACCV 2026**
+- 🎉 **Sep. 2026 - Our paper was accepted to ACCV 2026**
 
 
 ## TODO
 
-- [ ] 📄 Paper — Coming Soon
-- [ ] 💻 Code — Coming Soon
-- [ ] 📦 Trained Checkpoints — Coming Soon
+- [ ] 📄 Paper - Coming Soon
+- [ ] 💻 Code - Coming Soon
+- [ ] 📦 Trained Checkpoints - Coming Soon
 
