@@ -8,7 +8,7 @@ Code and pretrained models are currently being organized and will be released in
 
 ## News
 
-- 🎉 **RTAformer has been Accepted to ACCV 2026**
+- 🎉 **Sep. 2026 — Our paper was accepted to ACCV 2026**
 
 
 ## TODO
