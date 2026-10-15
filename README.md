@@ -1,23 +1,41 @@
 
-# [ACCV 2026] RTAformer: Relation-Transition-Aware Transformer for Video Scene Graph Generation
+## [ACCV 2026] RTAformer: Relation-Transition-Aware Transformer for Video Scene Graph Generation
 
 Official repository for RTAformer, a relation-transition-aware framework for Video Scene Graph Generation (VidSGG).
 
 📄 **Paper:** [arXiv:2610.20091](https://arxiv.org/abs/2610.20091)
 
-## Overview
+### Overview
 
 **TL;DR:** RTAformer addresses relational semantic inertia in video scene graph generation, where models retain outdated predicate predictions despite relation changes between persistent entities. It disentangles temporal modeling of entity persistence and relation dynamics, injects calibrated differences between adjacent-frame relation queries to guide predicate updates, and employs cross-frame instance-pair alignment to stabilize transition cues.
 
+
 Code and pretrained models are currently being organized and will be released in this repository.
 
-## News
+### News
 
 - 📄 **Oct. 14, 2026:** Our paper is now available on [arXiv](https://arxiv.org/abs/2610.20091).
 - 🎉 **Sep. 20, 2026:** Our paper was accepted to ACCV 2026.
 
-## TODO
+### TODO
 
-- [x] 📄 [Paper (arXiv)](https://arxiv.org/abs/2610.20091)
+- [x] 📄 Paper Released (arXiv)
 - [ ] 💻 Code - Coming Soon
 - [ ] 📦 Trained Checkpoints - Coming Soon
+
+
+### Citation
+
+If you find RTAformer useful in your research, please consider citing our paper:
+
+```bibtex
+@article{heo2026rtaformer,
+  title   = {{RTAformer}: Relation-Transition-Aware Transformer for Video Scene Graph Generation},
+  author  = {Heo, Jaeyeon and Lim, Geuntaek and Choi, Yukyung},
+  journal = {arXiv preprint arXiv:2610.20091},
+  year    = {2026},
+  url     = {https://arxiv.org/abs/2610.20091}
+}
+```
+
+The citation will be updated with the official ACCV proceedings information once available.
