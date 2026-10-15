@@ -5,6 +5,10 @@ Official repository for RTAformer, a relation-transition-aware framework for Vid
 
 📄 **Paper:** [arXiv:2610.20091](https://arxiv.org/abs/2610.20091)
 
+## Overview
+
+**TL;DR:** RTAformer addresses relational semantic inertia in video scene graph generation, where models retain outdated predicate predictions despite relation changes between persistent entities. It disentangles temporal modeling of entity persistence and relation dynamics, injects calibrated differences between adjacent-frame relation queries to guide predicate updates, and employs cross-frame instance-pair alignment to stabilize transition cues.
+
 Code and pretrained models are currently being organized and will be released in this repository.
 
 ## News
